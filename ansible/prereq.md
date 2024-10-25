@@ -3,7 +3,7 @@
 ## Install boto3
 
 ```
-pip install boto3
+sudo apt install python3-pip
 ```
 
 ## Install AWS Collection
